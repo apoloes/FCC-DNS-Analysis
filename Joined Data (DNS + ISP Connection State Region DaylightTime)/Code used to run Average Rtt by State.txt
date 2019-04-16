@@ -1,0 +1,4 @@
+./hadoop_java.sh AverageRttbyState
+./yarn_mapred.sh AverageRttbyState /user/apoloes/P1/rttwithispstateandregion.csv /user/apoloes/output
+
+I tried copying the csv version to moxie and will try to run that and see if it works
